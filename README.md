@@ -1,6 +1,6 @@
 # open-governance
 
-## A Living Spec
+# A living spec draft
 
 An open and transparent governance model with people and open-source technology at it's core.
 
