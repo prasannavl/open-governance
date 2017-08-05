@@ -22,7 +22,9 @@ For the sake of the arguments, let's two hypothetical examples for each of the a
 
 [ Try pictorial representation ]
 
-( Points to cover: - Complaints - no action: people don't have a channel to ideate, but just take out their frustration on random conversations with friends, and complain - but to no end; it's just a waste of their time, and energy; Complaints - no reciprocation from authorities; Complaints - valid reciprocation - but resource constraint) 
+( Points to cover: - Complaints - no action: people don't have a channel to ideate, but just take out their frustration on random conversations with friends, and complain - but to no end - to some it has just become a way of life - and evetually it becomes accepted - that's just how it is; it becomes nothing more than a just waste of time, and energy;  
+Complaints - no reciprocation from authorities;  
+Complaints - valid reciprocation - but resource constraint) 
 
 - **(.. Use Jallikattu protest .. in more generic form)**:
 
