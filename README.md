@@ -26,7 +26,8 @@ For the sake of the argument, let's take two hypothetical examples for each of t
 
 ( Points to cover: - Complaints - no action: people don't have a channel to ideate, but just take out their frustration on random conversations with friends, and complain - but to no end - to some it has just become a way of life - and evetually it becomes accepted - that's just how it is; it becomes nothing more than a just waste of time, and energy;  
 Complaints - no reciprocation from authorities;  
-Complaints - valid reciprocation - but resource constraint) 
+Complaints - valid reciprocation - but resource constraints;  
+Complaint exists - but triaged for more immediate issues - a more open way of triage management is needed) 
 
 - **(.. Use Jallikattu protest .. in more generic form)**:
 
