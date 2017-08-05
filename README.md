@@ -48,7 +48,7 @@ Now with these in mind, the goal is to transfer the knowledge from the technolog
 
 These problems are not new. It's faced by every industry and every field in some form or the other. But in the technology space, we have made active improvements on how to solve it, and there are projects that work with diverse set of people across the world - co-existly in very productive ways. We've masted the art of co-ordinating effectively in large teams without geographical limitations and restrictions. I feel that's something that has to be applied to every industry, but most importantly to the Government. 
 
-That being said, can this even work? This is one of the things, that we have to start taking new approaches. It's easy to say this will work, and just do it. Much, like how a lot of Government activities, other than perhaps some elite and resourceful organizations that work with solid data driven metrics, function today. But I say we shouldn't function that way. So, the answer to the question is - we have no way to know - until we try it. But we can definitely make it work - if we do it together.
+That being said, can this even work? This is one of the things where we have to start taking different approaches to thinking, that might leave a few unsettled, those who are used to the comfort of only dealing with predictablity. It's easy to say this will work, and just do it. Much, like how a lot of Government activities, other than perhaps some elite and resourceful organizations that work with solid data driven metrics, function today. But I say we shouldn't function that way. So, the answer to the question is - we have no way to know - until we try it. But we can definitely make it work - if we do it together.
 
 ## Core Values
 
