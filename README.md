@@ -14,9 +14,9 @@ Giants behemoths have fallen, and tiny visionaries with the right ideas have tak
 
 ## Why is this even needed?
 
-In order to address that, let's first look at what happens today. Let's say, you as a citizen is unhappy with some specific public service, or there's a law in question that's encroaches on a cultural value of a community. 
+In order to address that, let's first look at what happens today. Let's say, you as a citizen are unhappy with some specific public service, or there's a law in question that encroaches on a cultural value of a specific community. 
 
-For the sake of the arguments, let's two hypothetical examples for each of the above. 
+For the sake of the argument, let's take two hypothetical examples for each of the above, drawn from a possible reality. 
 
 - **The highway that you commute on every day is filled with pot holes, and the Government hasn't done much about it**:
 
