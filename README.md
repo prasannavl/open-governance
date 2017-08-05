@@ -12,6 +12,22 @@ Why is this important? Because, a few decades ago - you cannot poll every single
 
 Giants behemoths have fallen, and tiny visionaries with the right ideas have taken flight. Linux stands as a stellar example of being the most valuable technology on earth today - which has been the effort of a few visionaries, many companies and an army of individuals combined. It doesn't mean the closed sourcing isn't the right approach - but just rather open sourcing provides a better model for platforms to build on, that are probably require very different models. But.. a modern Government at it's core has to be transparent, and such an open source model is far superior than a closed source approach that's largerly followed today. 
 
+## Why is this even needed?
+
+In order to address that, let's first look at what happens today. Let's say, you as a citizen is unhappy with some specific public service, or there's a law in question that's encroaches on a cultural value of a community. 
+
+For the sake of the arguments, let's two hypothetical examples for each of the above. 
+
+- **The highway that you commute on every day is filled with pot holes, and the Government hasn't done much about it**:
+
+[ Try pictorial representation ]
+
+( Points to cover: - Complaints - no action: people don't have a channel to ideate, but just take out their frustration on random conversations with friends, and complain - but to no end; it's just a waste of their time, and energy; Complaints - no reciprocation from authorities; Complaints - valid reciprocation - but resource constraint) 
+
+- **(.. Use Jallikattu protest .. in more generic form)**:
+
+( Points to cover: - Small triggers, mass disruption, casualty, and wasted time that's could have otherwise been better utilized. It doesn't have to be. If there were better ways, such a need to disrupt life isn't and the expenses incurred due to it are not at all needed. Things can be iteratively, and actively discussed or curbed right in the process, before anything really happening ) 
+
 ## What does open sourcing the Government mean?
 
 Open-sourcing is a term largely used in software and technology - but doesn't have to be. Software and technology just reaped the first benefits, and became pioneers in community driven ideation, execution, and governance. And as such we have a large ecosystem, that self-regulates, self-balances with great toolchains to ideate, act, and manage. GitHub, where I write this is a fine example of it - it's quite simply the largest repository of softwares on earth. The closest example to the idea I can think of to communite it to a someone who's not a technology afficiando is the concept of market forces, but with effects that go far beyond, and ways in which it's problems can are curbed off just by the very nature of the system.
