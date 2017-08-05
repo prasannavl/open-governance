@@ -1,4 +1,6 @@
-# open-governance: Living Spec Document
+# open-governance
+
+## A Living Spec
 
 An open and transparent governance model with people and open-source technology at it's core.
 
