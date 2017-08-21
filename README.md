@@ -4,7 +4,9 @@
 
 An open and transparent governance model with people and open-source technology at it's core.
 
-`Because, in today's digital age, every willing citizen should have a role to play in the governance - from their home, office, or on the move and have more than just mere voting rights - To be able to interact, evaluate and be a part of the design in solving problems.`
+**Why?**
+
+`In today's digital age, every willing citizen should have a role to play in governance - from their home, office, or on the move and have more than just mere voting rights - To be able to interact, evaluate and be a part of the design in solving problems.`
 
 ## Prelude
 
