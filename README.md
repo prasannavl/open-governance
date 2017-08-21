@@ -4,6 +4,8 @@
 
 An open and transparent governance model with people and open-source technology at it's core.
 
+`Because, in today's digital age, every willing citizen should have a role to play in the governance - from their home, office, or on the move and have more than just mere voting rights - To be able to interact, evaluate and be a part of the design in solving problems.`
+
 ## Prelude
 
 Governance is a complicated, subjective and diverse subject, which only an elite few deal with in limelight, but everyone deals with in their own ways in one form or the other throughout their life - with time, money, family, children etc. But at the heart of it all, it can be broken down to a simple fact - We strive to make ourselves better - It could be in the form of protection, promotion, evolution, or revolution. It generally involves protecting our physical being, our ideologies or our beliefs, and involves tearing down a few to protect or create something else. The simple law of nature (well, it's the conversation of energy - but irrefutably applies to pretty much everything) - `Nothing in life, can be created nor destroyed; it can only be transferred or changed from one form to another`. 
